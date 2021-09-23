@@ -1,4 +1,4 @@
-<h1>0x7x<h1>
+<h1>0x7x</h1>
 Learning HTML5, CSS, and JS.
 ![](https://komarev.com/ghpvc/?username=0x7x&color=red)
 <h1>0x7x<h1>
