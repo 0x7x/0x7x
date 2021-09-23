@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @0x7x
-- 👀 I’m interested in learning basic coding
-- 🌱 I’m currently learning website coding and discord bots
+Learning HTML5, CSS, and JS.
 
 
 ![](https://komarev.com/ghpvc/?username=0x7x&color=red)
