@@ -1,5 +1,7 @@
+<html>
 <h1>0x7x</h1>
 Learning HTML5, CSS, and JS.
+</html>
 ![](https://komarev.com/ghpvc/?username=0x7x&color=red)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0x7x&theme=tokyonight)
 <!---
