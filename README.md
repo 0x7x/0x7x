@@ -8,5 +8,5 @@
 	<br>
 	<br>
 	<br>
-	<iframe src="https://komarev.com/ghpvc/?username=0x7x&color=red" alt="bear1s"/>
+	<iframe src="https://komarev.com/ghpvc/?username=0x7x&color=red" alt="bear1s"/iframe>
 	</div>
