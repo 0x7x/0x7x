@@ -8,8 +8,5 @@
 	<br>
 	<br>
 	<br>
-	<img src="https://github-readme-stats.vercel.app/api?username=0x7x&count_private=true&show_icons=true&theme=tokyonight" alt="bears"/>
+	<iframe src="https://komarev.com/ghpvc/?username=0x7x&color=red" alt="bear1s"/>
 	</div>
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0x7x&theme=tokyonight) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=0x7x&show_icons=true&theme=tokyonight)
-  ![](https://komarev.com/ghpvc/?username=0x7x&color=red)
