@@ -7,6 +7,5 @@
 	<img src="https://komarev.com/ghpvc/?username=0x7x&style=flat-square" alt="View Counter"/>
 	<br>
 	<br>
-	<br>
-	<iframe src="https://komarev.com/ghpvc/?username=0x7x&color=red" alt="bear1s"/iframe>
+	<embed type="text/html" src="https://komarev.com/ghpvc/?username=0x7x&color=red" width="500" height="200">
 	</div>
