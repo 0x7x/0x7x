@@ -9,3 +9,5 @@
 	<br>
 	<embed type="text/html" src="https://komarev.com/ghpvc/?username=0x7x&color=red" width="500" height="200">
 	</div>
+
+https://google.com
