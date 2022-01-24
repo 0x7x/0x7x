@@ -14,3 +14,4 @@ https://google.com
 https://remotedesktop.google.com/access/
 https://gamestop.com
 http://alloycloud.io/
+https://dashboard.alloycloud.io/
