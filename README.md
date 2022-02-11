@@ -16,3 +16,4 @@ https://gamestop.com
 http://alloycloud.io/
 https://dashboard.alloycloud.io/
 https://duckduckgo.com/
+https://www.bing.com/
