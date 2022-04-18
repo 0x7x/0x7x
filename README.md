@@ -17,3 +17,7 @@ http://alloycloud.io/
 https://dashboard.alloycloud.io/
 https://duckduckgo.com/
 https://www.bing.com/
+https://sheets.google.com/
+https://google.com
+https://docs.google.com/
+https://gmail.com
