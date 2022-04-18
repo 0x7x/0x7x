@@ -20,4 +20,4 @@ https://www.bing.com/
 https://sheets.google.com/
 https://google.com
 https://docs.google.com/
-https://gmail.com
+https://gmail.com/
